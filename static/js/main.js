@@ -1,5 +1,5 @@
-import { initForm } from '../../modules/formController.js'
-import { API_URL } from '../../config/settings.js'
+import { initForm } from './modules/formController.js'
+import { API_URL } from './config/settings.js'
 import { createDragon } from './dragon.js'
 
 createDragon()

@@ -1,7 +1,7 @@
 import { validateEmail, showMessage } from './utils.js'
 import { User } from './userModel.js'
-import { sendData } from '../assets/js/api.js'
-import { showLoader, hideLoader } from '../assets/js/ui.js'
+import { sendData } from '../api.js'
+import { showLoader, hideLoader } from '../ui.js'
 
 export function initForm(apiURL) {
     const container = document.getElementById('formContainer')
