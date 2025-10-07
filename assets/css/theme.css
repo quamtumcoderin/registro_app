@@ -1,0 +1,8 @@
+:root {
+    --primary: #00aaff;
+    --primary-dark: #0078ff;
+    --background: #0b132b;
+    --text: #e0e6ed;
+    --error: #ff4d4d;
+    --success: #2ecc71;
+}

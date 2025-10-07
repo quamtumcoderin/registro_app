@@ -1,0 +1,19 @@
+{
+  "name": "registro_app",
+  "version": "0.0.1",
+  "type": "module",
+  "description": "Formulario de registro semi profesional",
+  "main": "assets/js/main.js",
+  "scripts": {
+    "test": "None"
+  },
+  "repository": {
+    "type": "git",
+    "url": "None"
+  },
+  "keywords": [
+    "None"
+  ],
+  "author": "quamtumcoderin",
+  "license": "MIT"
+}
