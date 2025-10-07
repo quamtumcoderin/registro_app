@@ -15,5 +15,8 @@
     "None"
   ],
   "author": "quamtumcoderin",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^17.2.3"
+  }
 }
