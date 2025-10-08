@@ -1,5 +1,12 @@
 # Dependencies
 node_modules/
+python_modules/
 
 # Private
 .env
+
+# Cache
+__pycache__/
+
+# Local Config
+.vscode/
